@@ -1,0 +1,18 @@
+<tabs>
+    <tab
+        id="@+id/tab_favorites"
+        title="Cardápio"
+        />
+    <tab
+        id="@+id/tab_saldo"
+        title="Saldo"
+        />
+    <tab
+        id="@+id/tab_info"
+        title="info"
+        />
+    <tab
+        id="@+id/tab_configuracoes"
+        title="Configs"/>
+
+</tabs>
